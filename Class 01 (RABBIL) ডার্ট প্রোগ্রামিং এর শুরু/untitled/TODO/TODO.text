@@ -1,0 +1,31 @@
+
+
+7.  // Single Line Comments
+8.  /*.......*/ Multi Line Comments
+
+9. What is Variable -> Data
+
+10. Variable/Data Types
+        - int (পূর্ণ সংখ্যা)
+        - double (দশমিক সংখ্যা)
+        - String (স্ট্রিং)(text type)
+        - List (তালিকা)
+        - Map (ম্যাপ/বিষয়/বস্তু/বর্ননা)
+        - Boolean (সত্য/মিথ্যা / হা / না )
+
+11. Type Inference
+        - Auto Data Type using "var" keyword(all time ba sob khetre use kora jay but use na kora better)
+
+
+12. Constant Variable
+        - Value is not changeable
+        - Works on compile time
+
+13. Final Variable
+        - Value is not changeable
+        - Works on run time
+
+14. Arithmatic Operator
+    +,-,/,*,%
+
+

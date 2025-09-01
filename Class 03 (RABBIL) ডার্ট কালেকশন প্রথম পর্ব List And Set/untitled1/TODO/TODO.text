@@ -1,0 +1,54 @@
+1. What is Dart Collection
+    - List ***
+    - Set *
+    - Map ***
+
+
+2. List
+    - How to Write List
+    - List Has Specific Index No, Ordered Data Type
+    - List Can had duplicate value
+    - List Can had string,number,bool
+    - List Generic(String,Int,Bool) & Dynamic List
+    - List is Mutable (একই মেমেরিতে পরিবর্তনশীল)
+            - add()
+            - addAll()
+            - insert()
+            - insertAll()
+            - list update by Specific Index
+            - list update by Specific Index With Multiple
+            - remove() Specific Item remove
+            - removeAt() Specific Index remove
+            - clear() All Remove
+            - Ascending order sort
+            - Reverse order sort
+            - Search inside List
+                    - contains()
+                    - indexOf
+
+            - Loop Inside List
+                    - for in loop ***
+                    - map ***
+                    - foreach
+
+
+3. Set
+    - How to Write Set
+    - Duplicate value not allowed
+    - Set Has No Specific Index , Unordered Data Type
+    - Set Can had string,number,bool
+    - Set Generic(String,Int,Bool) & Dynamic Set
+    - Set is Mutable (একই মেমেরিতে পরিবর্তনশীল)
+        - add()
+        - addAll()
+        - remove()
+        - clear()
+        - Ascending order sort -> List Convert (X)
+        - Reverse order sort->  List Convert (X)
+        - Search inside List
+            - contains()
+
+        - Loop Inside List
+            - for in loop
+            - foreach
+            - map

@@ -1,0 +1,38 @@
+main(){
+
+ int a=100;
+ double b=20.45;
+ String name="Flutter + - * () 2025";
+
+ List cityList=["Dhaka","Delhi","Lahor","London"];
+ List marks=[10,40,60,70,100];
+ List countryList=["Bangladesh","USA","UK","Canada"];
+
+
+ // KEY:VALUE  -> KEY->String -> VALUE->Any
+ // KEY:VALUE -> Key Value Pair
+ Map billGates={
+    "firstName":"Bill",
+    "lastName":"Gates",
+    "age":65,
+    "height":5.5,
+    "country":"USA",
+    "gender":"Male"
+ };
+
+
+ bool isLogin=true;
+ bool isProfile=false;
+
+
+ print(a);
+ print(b);
+ print(name);
+ print(cityList);
+ print(marks);
+ print(countryList);
+ print(billGates);
+ print(isLogin);
+ print(isProfile);
+
+}

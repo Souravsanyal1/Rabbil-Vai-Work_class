@@ -1,0 +1,52 @@
+1. ফাংশন: কী, কেন, কীভাবে?
+        - কী: BLOC/Module
+        - কীভাবে: addTwo(){}
+        - কেন: Code Reuse, Readable, Test, Debug
+
+2. সাধারণ ফাংশন
+addTwo(){
+  var x=10;
+  var y=20;
+  var sum=x+y;
+  print(sum);
+}
+
+3. প্যারামিটারযুক্ত ফাংশন
+    - Positional Parameter
+    - Default/Optional Parameter
+    - Named Parameter
+
+4.  ল্যাম্বডা (অ্যানোনিমাস) ফাংশন
+      - short hand/inline/ Inline Arrow
+      - Arrow Function
+
+
+5. রিটার্ন টাইপ
+        - একটি ফাংশন যাহা রিটার্ন করে উহা গুনে ও মানে তাহার সমান হয়ে যায়
+        - return 100
+        - return "RABBIL"
+        - গুনে= Data Type
+        - মানে= Value
+        - void,int,string,double,float,map,list,set,function~
+
+6. অ্যাসিঙ্ক্রোনাস ফাংশন
+        - Future, async
+        - Delay-> await
+
+
+7. রিকার্সিভ ফাংশন
+        - যেই ফাংশন নিজেই নিজেকে কল করে ।
+        - 5*4*3*2*1
+        - 5+4+3+2+1
+
+
+8. হায়ার-অর্ডার / কলব্যাক ফাংশন
+    - যখন একটি ফাংশন নিজেই অন্য একটির প্যারামিটার হয়ে যায়
+
+
+Flutter
+- Android,IOS,Desktop (Native) ***
+- Web *
+-
+
+

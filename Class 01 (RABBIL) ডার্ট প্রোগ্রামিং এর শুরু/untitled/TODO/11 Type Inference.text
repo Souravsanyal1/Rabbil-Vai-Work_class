@@ -1,0 +1,38 @@
+main(){
+
+ var a=100;
+ var b=20.45;
+ var name="Flutter + - * () 2025";
+
+ var cityList=["Dhaka","Delhi","Lahor","London"];
+ var marks=[10,40,60,70,100];
+ var countryList=["Bangladesh","USA","UK","Canada"];
+
+
+ // KEY:VALUE  -> KEY->String -> VALUE->Any
+ // KEY:VALUE -> Key Value Pair
+ var billGates={
+    "firstName":"Bill",
+    "lastName":"Gates",
+    "age":65,
+    "height":5.5,
+    "country":"USA",
+    "gender":"Male"
+ };
+
+
+ var isLogin=true;
+ var isProfile=false;
+
+
+ print(a);
+ print(b);
+ print(name);
+ print(cityList);
+ print(marks);
+ print(countryList);
+ print(billGates);
+ print(isLogin);
+ print(isProfile);
+
+}

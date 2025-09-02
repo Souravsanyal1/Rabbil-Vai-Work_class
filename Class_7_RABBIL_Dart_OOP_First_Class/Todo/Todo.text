@@ -1,0 +1,52 @@
+1. What is OOP
+    - Practice
+    - Module
+    - Reusable
+    - Maintenance
+    - Bug Fixing
+    - Flutter (SDK)
+
+2. Why How What is Class ?
+    - Blueprint
+    - class keyword
+    - class properties (Variable,Function)
+
+
+3. Why How What is Object ?
+    - Class--> Object
+    - Object-->Access->Class Variable
+    - Object-->Access->Class Function
+
+4. Why How What Constructor?
+        -* Auto Executed Magic Function
+        -* He Can Receive Params
+        -* He Can't Return Anything
+        -* Constructor name is same as class name
+        -* Use Case Auto API Call, Database Connection
+
+5. Why How What Inheritance
+        - Parent Class, Child Class (Inheritance)
+        - Extends
+        - Core Business Logic (Parent Class)
+        - Use by (Child Class) taking from parent
+        - Flutter (Parent Class)
+        - Parent Class---> Extends---> Child Class
+        - Flutter -> StateFullWidget(Parent)
+        - Flutter -> StateLessWidget(Parent)
+
+5. Inheritance & Constructor
+        - যদি বাবার Constructor থাকে সেটা বাবা + ছেলে উভয় পাবে
+        - যদি ছেলের Constructor থাকে তাহলে শুধু ছেলেই পাবে ।
+        - যদি ২জনের Constructor থাকে তাহলে দুজনের টা পাবে ।
+
+5. Property Overriding
+        -
+
+6. Encapsulation & getter setter
+        - balance=0
+        - deposit +balance
+        - withdraw -balance
+        - balanceCheck
+
+        - setter->(deposit,withdraw)
+        - getter->(balanceCheck)

@@ -1,24 +1,18 @@
-
- main() {
-
-/*
+main() {
+  /*
 Set fruits= {'Apple', 'Banana','Banana', 'Orange'};
 print(fruits);
 
 */
 
-
-
-/*
+  /*
   Set<dynamic> fruits1= {'Apple', 'Banana' 'Orange',1,4.9,true};
   Set<String> fruits2= {'Apple', 'Banana' 'Orange'};
   Set<int> fruits3= {1,6,9};
   print(fruits1);
 */
 
-
-
-/*
+  /*
 
   Set fruits= {'Apple', 'Banana','Banana', 'Orange'};
   fruits.add("value1");
@@ -29,7 +23,7 @@ print(fruits);
 
   */
 
-/*
+  /*
 
   Set numbers= {1,6,2,4,100,3};
   var numbersSort= numbers.toList().sort();
@@ -37,15 +31,13 @@ print(fruits);
 
   */
 
- /* Set fruits= {'Apple', 'Banana', 'Orange'};
+  /* Set fruits= {'Apple', 'Banana', 'Orange'};
   print(fruits.contains("aaxaxas"));
   */
 
+  Set fruits = {'Apple', 'Banana', 'Orange'};
 
-
-  Set fruits= {'Apple', 'Banana', 'Orange'};
-  
-/*  for(var item in fruits){
+  /*  for(var item in fruits){
       print(item);
     }
 
@@ -54,12 +46,4 @@ print(fruits);
 
     fruits.map((item)=>print(item)).toList();
   */
-
-
-
-
- 
- 
-
-
 }

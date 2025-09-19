@@ -1,0 +1,34 @@
+1. What is অ্যাসিনক্রোনাস অপারেশন
+    - File Upload
+    - File Download
+    - API Call
+    - Conversion
+    - Wait
+    - Delay
+
+2. Function Return Type Future
+    - Future= Return Type
+    - async = Function Signature
+    - await = Delay
+
+3. Lets Call A API From Server
+    - http package install
+    - now we will get data from https://jsonplaceholder.typicode.com/todos
+
+
+4. What is JSON
+5. What is Postman
+6. Multiple অ্যাসিনক্রোনাস অপারেশন
+7. Exception Handle
+
+
+8. Isolate প্যারালাল প্রোগ্রামিং
+    - Background Task
+9. Function Return Type Stream
+    - Realtime Data -> Firebase
+
+
+10. Builder
+    - Future Builder List View -> RestAPI
+    - Stream Builder List View -> Firebase
+

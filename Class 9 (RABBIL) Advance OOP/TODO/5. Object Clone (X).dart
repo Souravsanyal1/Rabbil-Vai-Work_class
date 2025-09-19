@@ -1,0 +1,4 @@
+main(){
+  // Object Clone (X)
+}
+

@@ -1,0 +1,19 @@
+1. Factory Constructor
+    -
+2. Generics
+3. Singleton Pattern
+4. Dependency Injection
+5. Object Clone (X)
+6. Composition VS Inheritance
+7. Use of this keyword
+
+SOLID Principle
+    S- Single Responsibility Principle
+    0- Open & Close Principle
+    L- Liskov Substitution Principle
+    I- Interface Segregation Principle
+    D- Dependency Inversion (Dependency Injection)
+
+
+
+

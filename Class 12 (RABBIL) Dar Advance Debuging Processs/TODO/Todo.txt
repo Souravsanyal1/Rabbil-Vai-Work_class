@@ -1,0 +1,48 @@
+1. Debugging
+    - Self Error Fixing
+    - Code Understanding
+    - Logic Understanding
+    - Fractional Code Writing
+    - Test Drive Coding
+
+3. Debugging Break Point
+        - Code Execution
+        - Play
+        - Pause
+
+4. Step Over
+        - Line By Line Next Execution
+
+5. Stop
+    - Debugging Process Discard
+6. Restart
+    - Debugging Process Again Start From First
+
+7. Resume
+    - Execution Go Ahead But Skip the Debugging Process
+
+8. View Break Point
+    - Overall Picked Break Point Views
+
+9. Mute Break Point
+    - At that point skip debugging
+
+10. Console Tab
+        - print(--------)
+
+11. Threads & Variables
+        - Look Variables Creation And Value Assign
+
+12. Evaluate Expression
+         -
+
+13. Force
+    - Start
+    - Stop
+    - Restart
+
+
+14. Step Into
+
+
+15. Step Out

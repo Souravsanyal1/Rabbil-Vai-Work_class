@@ -1,0 +1,17 @@
+class HomePage extends StatelessWidget{
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("Flutter B4",style: TextStyle(color: Colors.blue),),),
+      body: Center(
+        child: Image.network(
+          "https://rabbil.com/files/rabbilVai1.webp?v=1",
+          height: 300,
+          width: 300,
+          fit: BoxFit.contain,
+        )
+      ),
+    );
+  }
+}

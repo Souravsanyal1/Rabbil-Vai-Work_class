@@ -1,0 +1,23 @@
+class HomePage extends StatelessWidget{
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("Flutter B4",style: TextStyle(color: Colors.blue),),),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Container(width: 50, height: 100, color: Colors.amber),
+          SizedBox(width: 20,height: 20),
+          Divider(thickness: 2,color: Colors.black),
+          Container(width: 50, height: 100, color: Colors.red),
+          SizedBox(width: 20,height: 20),
+          Divider(thickness: 2,color: Colors.black),
+          Container(width: 50, height: 100, color: Colors.blue),
+          SizedBox(width: 20,height: 20),
+          Divider(thickness: 2,color: Colors.black),
+          Container(width: 50, height: 100, color: Colors.green),
+        ],
+      )
+    );
+  }

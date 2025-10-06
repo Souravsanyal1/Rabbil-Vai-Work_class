@@ -1,0 +1,25 @@
+1. Flutter App Code Flow
+2. Flutter Page
+    - Scaffold (Screen)
+        - AppBar
+        - Body
+
+3. Text Widget
+        - Text Show
+        - Text Style
+
+4. RichText
+
+5. Icon
+
+6. Image
+
+7. Container
+
+8. Row & Column=> Sizedbox
+
+9. Divider
+
+10. Stack
+
+

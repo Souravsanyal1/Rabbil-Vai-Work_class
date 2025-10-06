@@ -1,0 +1,12 @@
+class HomePage extends StatelessWidget{
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text("Flutter B4",style: TextStyle(color: Colors.blue),),),
+      body: Center(
+        child: Icon(Icons.settings,size: 100,color: Colors.red,)
+      ),
+    );
+  }
+}

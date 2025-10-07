@@ -1,0 +1,23 @@
+1. Elevated Button
+2. Outlined Button
+3. Text Button
+4. Icon Button
+5. Gesture/Touch/Press/Inkwell
+6. Text Form Field
+7. Dropdown Button
+8. Check Box
+9. Switch
+10. Slider
+11. Floating Action Button
+
+Styling
+- Foreground Color
+- Background Color
+- Color
+- Container
+- Margin
+- Padding
+- Position
+- Alignment
+- Elevation
+- shadow

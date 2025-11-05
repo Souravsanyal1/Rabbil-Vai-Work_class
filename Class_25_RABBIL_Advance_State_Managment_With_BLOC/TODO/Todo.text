@@ -1,0 +1,16 @@
+1. Bloc
+2. Install package - flutter_bloc
+3. How Bloc Works
+        - (1) Events Parent Abstract Class
+        - (2) Events Child Class
+        - (3) Create Class Component Bloc<Event,DataType>
+        - (4) Write Your Variable According to DataType
+        - (5) Assign Event Inside Constructor
+        - (6) Value Changes Function
+        - (7) Params: Specific Event , Emitter
+
+4. How Bloc Implement Inside Your App & Component
+        - (8) Add MultiBlocProvider With App Main (One time)
+        - (9) Read Block form widget builder
+        - (10) Add Bloc Event In Button or Where  has user intraction
+        - (11) Add BlocBulder Where Changes Happen
